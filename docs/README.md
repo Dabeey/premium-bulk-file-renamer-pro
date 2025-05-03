@@ -1,6 +1,6 @@
 # Premium File Renamer Pro
 
-![Premium File Renamer Pro Banner](docs/assets/banner.png)
+![Premium File Renamer Pro Banner](assets/banner.png)
 
 The industry-leading bulk file renaming solution for professionals.  
 **✓ Commercial-Grade** **✓ 100% Safe** **✓ Feature Complete**
