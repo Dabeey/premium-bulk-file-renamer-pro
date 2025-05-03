@@ -1,0 +1,28 @@
+Premium File Renamer Pro License Agreement
+==========================================
+
+Copyright (c) 2023 Premium File Renamer Pro. All rights reserved.
+
+This software is licensed, not sold. By using this software, you agree to the terms of this license agreement.
+
+1. Grant of License:
+   - You are granted a non-exclusive, non-transferable license to use this software for personal or commercial purposes, depending on the license tier purchased (Basic, Pro, or Enterprise).
+
+2. Restrictions:
+   - You may not reverse engineer, decompile, or disassemble the software.
+   - You may not distribute, sublicense, or transfer the software to any third party without prior written consent.
+   - Unauthorized copying, sharing, or distribution of this software is strictly prohibited.
+
+3. Ownership:
+   - All intellectual property rights in and to the software are owned by Premium File Renamer Pro. This license does not grant you any ownership rights.
+
+4. Disclaimer of Warranty:
+   - This software is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+5. Limitation of Liability:
+   - In no event shall Premium File Renamer Pro be liable for any damages arising out of the use or inability to use this software.
+
+6. Termination:
+   - This license is effective until terminated. Failure to comply with any terms will result in automatic termination of this license.
+
+For inquiries, please contact support@premiumfilerenamepro.com.
